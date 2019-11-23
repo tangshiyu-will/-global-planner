@@ -1,0 +1,1 @@
+/usr/bin/c++   -std=c++14 -Wall -pedantic -O2   CMakeFiles/playground.dir/playground_main.cc.o  -o playground -rdynamic libplanner.a -lglog -lgflags 

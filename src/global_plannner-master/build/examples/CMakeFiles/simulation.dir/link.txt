@@ -1,0 +1,1 @@
+/usr/bin/c++   -std=c++14 -Wall -pedantic -O2   CMakeFiles/simulation.dir/simulation_main.cc.o  -o simulation -rdynamic ../src/libplanner.a -lglog -lgflags 

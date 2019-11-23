@@ -1,0 +1,12 @@
+/home/tang/backup2/build/CMakeFiles/install.dir
+/home/tang/backup2/build/CMakeFiles/clean_test_results.dir
+/home/tang/backup2/build/CMakeFiles/run_tests.dir
+/home/tang/backup2/build/CMakeFiles/download_extra_data.dir
+/home/tang/backup2/build/CMakeFiles/tests.dir
+/home/tang/backup2/build/CMakeFiles/edit_cache.dir
+/home/tang/backup2/build/CMakeFiles/doxygen.dir
+/home/tang/backup2/build/CMakeFiles/rebuild_cache.dir
+/home/tang/backup2/build/CMakeFiles/list_install_components.dir
+/home/tang/backup2/build/CMakeFiles/install/strip.dir
+/home/tang/backup2/build/CMakeFiles/install/local.dir
+/home/tang/backup2/build/CMakeFiles/test.dir

@@ -1,0 +1,2 @@
+/usr/bin/ar qc libplanner.a  CMakeFiles/planner.dir/planner/car.cc.o CMakeFiles/planner.dir/planner/planner.cc.o CMakeFiles/planner.dir/planner/map.cc.o CMakeFiles/planner.dir/planner/baseframe.cc.o CMakeFiles/planner.dir/planner/maneuver.cc.o
+/usr/bin/ranlib libplanner.a
